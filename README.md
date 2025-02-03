@@ -3,16 +3,6 @@
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## Features
@@ -48,4 +38,4 @@ Database: MongoDB
 
 Authentication: JSON Web Tokens (JWT)
 
-Other Tools: Axios (for API requests), etc.
+Other Tools: Axios (for API requests), Stripe Payment etc.
