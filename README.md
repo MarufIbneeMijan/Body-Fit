@@ -1,8 +1,51 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Body Fit** is a fitness website where users can request to become trainers, book trainers, and access various fitness-related services. It’s designed to connect fitness enthusiasts with professional trainers and provide a seamless experience for managing fitness goals.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## Features
+- **User Roles**:
+  - **Users**: Can book trainers, view services, and manage their fitness plans.
+  - **Trainers**: Can register as trainers and manage their availability and services.
+- **Trainer Booking**: Users can book trainers based on availability and preferences.
+- **Service Management**: Users can explore and book additional fitness services.
+- **Admin Panel**: Admins can manage users, trainers, and services.
+
+
+Usage
+For Users:
+Register or log in to your account.
+
+Browse trainers and services.
+
+Book a trainer or service based on your preferences.
+
+For Trainers:
+Request to become a trainer by submitting your details.
+
+Once approved, manage your availability and services.
+
+For Admins:
+Manage users, trainers, and services through the admin panel.
+Technologies Used
+Frontend: HTML, CSS,Tailwind, JavaScript, React.js 
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Authentication: JSON Web Tokens (JWT)
+
+Other Tools: Axios (for API requests), etc.
